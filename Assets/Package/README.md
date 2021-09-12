@@ -64,5 +64,3 @@ Find the manifest.json file in the Packages folder of your project and add a lin
 Or, you can add this package using PackageManager `Add package from git URL` option:
 
 * `https://github.com/alexmalyutindev/unity-event-bus.git#latest`
-
-Or, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.
