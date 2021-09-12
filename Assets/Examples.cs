@@ -1,5 +1,5 @@
 ﻿using System;
-using Core.Systems.Events;
+using EventBusSystem;
 using UnityEngine;
 
 namespace DefaultNamespace
