@@ -1,4 +1,4 @@
-﻿namespace Core.Systems.Events
+﻿namespace EventBusSystem
 {
 	public interface IEventBusSubscriber
 	{
